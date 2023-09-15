@@ -1,0 +1,27 @@
+/* Estilos para o corpo da página */
+body {
+    background: #000; /* Define o fundo como preto (#000) */
+}
+
+/* Estilos para cabeçalhos de nível 2 */
+h2 {
+    color: pink; /* Define a cor do texto como rosa */
+}
+
+/* Estilos para parágrafos */
+p {
+    color: aquamarine; /* Define a cor do texto como aquamarine */
+    font-size: 25px; /* Define o tamanho da fonte como 25 pixels */
+}
+
+/* Estilos para cabeçalhos de nível 1 */
+h1 {
+    color: beige; /* Define a cor do texto como bege */
+    font-size: 70px; /* Define o tamanho da fonte como 70 pixels */
+}
+
+/* Estilos para imagens */
+img {
+    width: 20%; /* Define a largura da imagem como 20% da largura do elemento pai */
+    height: 50%; /* Define a altura da imagem como 50% da altura do elemento pai */
+}
